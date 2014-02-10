@@ -1,3 +1,5 @@
+**Note:** This fork only exists for my own custom builds.
+
 three.js
 ========
 
